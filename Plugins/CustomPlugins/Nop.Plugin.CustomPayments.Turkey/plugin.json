@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Customs",
+  "FriendlyName": "Custom Payment For Turkey",
+  "SystemName": "CustomPayments.Turkey",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "MehmetSeker",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.CustomPayments.Turkey.dll",
+  "Description": "This plugin enables check and money order for Turkey Payments"
+}

@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Server=localhost;Database=nopCommerce;Trusted_Connection=True;",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}

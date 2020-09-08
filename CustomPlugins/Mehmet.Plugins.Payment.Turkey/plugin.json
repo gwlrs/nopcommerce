@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Customs",
+  "FriendlyName": "Payment For Turkey",
+  "SystemName": "Payment.Turkey",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "Mehmet team",
+  "DisplayOrder": 1,
+  "FileName": "Mehmet.Plugins.Payment.Turkey.dll",
+  "Description": "This plugin allows you to pay for Turkey Customers"
+}
