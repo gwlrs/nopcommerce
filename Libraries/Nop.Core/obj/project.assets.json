@@ -9423,23 +9423,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MUHAMMET\\.nuget\\packages\\": {},
+    "C:\\Users\\malis\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "4.3.0",
     "restore": {
-      "projectUniqueName": "D:\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj",
+      "projectUniqueName": "D:\\Jobs\\nopcommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
       "projectName": "Nop.Core",
-      "projectPath": "D:\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj",
-      "packagesPath": "C:\\Users\\MUHAMMET\\.nuget\\packages\\",
-      "outputPath": "D:\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\obj\\",
+      "projectPath": "D:\\Jobs\\nopcommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
+      "packagesPath": "C:\\Users\\malis\\.nuget\\packages\\",
+      "outputPath": "D:\\Jobs\\nopcommerce\\Libraries\\Nop.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\MUHAMMET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\malis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -9531,7 +9531,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

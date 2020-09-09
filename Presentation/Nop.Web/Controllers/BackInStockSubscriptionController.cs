@@ -16,6 +16,8 @@ namespace Nop.Web.Controllers
 {
     public partial class BackInStockSubscriptionController : BasePublicController
     {
+
+        // Dene
         #region Fields
 
         private readonly IBackInStockSubscriptionService _backInStockSubscriptionService;
